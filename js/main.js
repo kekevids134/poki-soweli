@@ -50,7 +50,7 @@ function tickGame(seconds)
             titleInfo += game.metaLayer.active ? functions.formatNumber(game.metaLayer.layer.add(1), 3, 0) : new Decimal(1).add(game.highestLayer);
             break;
     }
-    document.title = "ωEngine" + (game.settings.titleStyle !== 0 ? ":" : "") + " " + titleInfo;
+    document.title = "Soweli Mu" + (game.settings.titleStyle !== 0 ? ":" : "") + " " + titleInfo;
 
     if(saveTimer > 30)
     {

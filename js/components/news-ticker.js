@@ -3,23 +3,10 @@ Vue.component("news-ticker", {
     {
         return {
             messages: [
-                "modding.net",
-                "layer name moment",
-                "weird themes",
-                "hey, you could make a mod out of this",
-                "when the imp- oh wrong mod",
-                "basically there is a thi- (softcapped)",
-                "incremental thing i guess",
-                "omega layers but steam engine",
-                "mod.js: powering layers",
-                "i ran out of words on my hard drive :(",
-                "what if i told you that secret achievements are real",
-                "omega layers 2, coming in 2048 years",
-                "finally a major release",
-                "go visit omega layers ez and sussy layers 2",
-                "join the community server",
-                "content when",
-                "omega engine v-1.0.0: we removed all the features that aren't the main game"
+                "soweli",
+                "mu mu",
+                "mi ken ala isipin e nimi ni sin",
+                "KEN LA MI KEPEKEN NIMI WAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PI WAWA NASA NASA NASA A A A AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
             ],
             currentMessage: "",
             messageIndex: -1
