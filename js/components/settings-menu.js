@@ -163,7 +163,7 @@ Vue.component("settings-menu", {
     <button @click="download()">kama jo e ni lon lipu nimi .txt</button>
 </div>
 <div class="settings-row">
-    <p>Controls: sina wile esun mute mute la o kepeken nena "m"<br/>
+    <p>sina wile esun mute mute la o kepeken nena "m"<br/>
     sina wile tawa poki ante la o kepeken nena pi sitelen nasin pi sewi ala pi anpa ala<br/>
     sina wile sewi e poki la o kepeken e nena p<br/>
     First Letter of a tab ([L]ayers, [S]ettings) to select it; C to select Achievements(can't really do this in toki pona)</p>

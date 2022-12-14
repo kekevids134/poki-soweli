@@ -1,6 +1,6 @@
 const mod = {
-    primaryName: "Soweli",
-    secondaryName: "Mu",
+    primaryName: "poki ",
+    secondaryName: "soweli",
     version: "0.0.1",
     engineVer: "1.0.0 P1", //DO NOT MODIFY
     debugMode: false,
@@ -68,10 +68,10 @@ const mod = {
         ["Minecraft", "css/fonts/minecraft.css"],
     ],
     saves: [
-        ["Save 1", ""],
-        ["Save 2", "2"],
-        ["Save 3", "3"],
-        ["Save 4", "4"],
+        ["lon nanpa 1", ""],
+        ["lon nanpa 2", "2"],
+        ["lon nanpa 3", "3"],
+        ["lon nanpa 4", "4"],
     ],
     extraNames: [
         this.primaryName+this.secondaryName, //title name
