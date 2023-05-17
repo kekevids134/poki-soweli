@@ -6,7 +6,7 @@ Vue.component("volatility-tab", {
         }
     },
     template: `<div class="volatility-tab">
-<p class="description">volatility has stuff to make u better at game i guess</p>
+<p class="description">sina lon ni la sina ken kama jo e ijo pona li pali e ni: poki anpa sina li weka ala</p>
 <div class="upgrades">
     <upgrade :upgrade="volatility.layerVolatility"></upgrade>
     <upgrade :upgrade="volatility.autoMaxAll"></upgrade>

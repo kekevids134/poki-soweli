@@ -10,7 +10,7 @@ Vue.component("automator", {
 <div>
     <h4>{{automator.name}}</h4>
     <p>{{automator.description}}</p>
-    <label>Desired Interval: <input type="number" v-model.number.lazy="automator.desiredInterval" step="0.1"/> Seconds</label>
+    <label>tenpo wile: tenpo Sekunta <input type="number" v-model.number.lazy="automator.desiredInterval" step="0.1"/></label>
     <label><input type="checkbox" v-model="automator.active"/> Active</label>
 </div>
 <upgrade :upgrade="automator.upgrade" v-if="!isResourceUpgrade"></upgrade>

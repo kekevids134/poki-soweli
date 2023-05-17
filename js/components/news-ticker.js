@@ -7,6 +7,9 @@ Vue.component("news-ticker", {
                 "mu mu",
                 "mi ken ala isipin e nimi ni sin",
                 "KEN LA MI KEPEKEN NIMI WAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PI WAWA NASA NASA NASA A A A AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "sina pona a!",
+                "papa li sina, kiwen li tawa, sinpin li awen, len li pona",
+                "you've been hit by PA PA, you've been struck by PA, kijetesantakalu dududududududu DUDUDUUDDU"
             ],
             currentMessage: "",
             messageIndex: -1
